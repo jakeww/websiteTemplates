@@ -3,6 +3,13 @@
   border: 1px solid #ffa500;
 }
 
+.about-us {
+  font-size: larger;
+  font-weight: bold;
+  text-align: center;
+  width: 50% !important;
+}
+
 .spacer {
   padding: 10px; 
 }
@@ -53,4 +60,5 @@ body {
     width: 150px;
     height: 150px;
   }
+
   
